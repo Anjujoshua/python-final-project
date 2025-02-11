@@ -1,4 +1,4 @@
-# python-final-project
+# Python-final-project
 This project focuses on performing a comprehensive analysis of employee data from ABC Company using Python. The dataset comprises 458 rows and 9 columns, containing critical information such as employee IDs, names, teams, positions, ages, salaries, and other relevant attributes. The primary goal of this project is to transform raw data into meaningful insights through systematic data preprocessing, exploratory data analysis (EDA), and effective data visualization techniques.
 
 The project begins with data preprocessing, where inconsistencies in the dataset are addressed. Specifically, the "height" column is corrected by replacing invalid or missing values with random numbers between 150 and 180 cm to ensure data integrity. Additionally, data cleaning steps such as handling missing values, correcting data types, and ensuring uniformity across categorical fields are implemented to prepare the data for analysis.
